@@ -1,0 +1,6 @@
+streamlit
+openai
+gTTS
+pydub
+requests
+ffmpeg-python
